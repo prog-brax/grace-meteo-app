@@ -1,6 +1,6 @@
 # Quasar App (quasar-project)
 
-Une application météo
+A Quasar Project
 
 ## Install the dependencies
 ```bash
