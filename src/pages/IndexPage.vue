@@ -6,7 +6,7 @@
         <div class="text-subtitle2">by Me</div>
       </q-card-section>
       <q-card-section class="q-pt-none">
-        {{ lorem }}
+        Bonjour tout le monde
       </q-card-section>
     </q-card>
 </template>
